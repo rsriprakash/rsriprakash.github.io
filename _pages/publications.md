@@ -10,14 +10,14 @@ redirect_from:
 		with Nikhil Karamchandani and Sharayu Moharir,<br>
     poster paper in ACM Sigmetrics 2022.
 
-* [Caching Policies for Transient Data](http://rsriprakash.github.io/files/Tcom_2020)
-		with Santosh Fatale and Sharayu Moharir,
+* [Caching Policies for Transient Data](http://rsriprakash.github.io/files/Tcom_2020)<br>
+		with Santosh Fatale and Sharayu Moharir,<br>
     in IEEE Transactions on Communications 2020.
 
-* [Partial Service Caching at the Edge](http://rsriprakash.github.io/files/Wiopt_2020)
-		with Sharayu Moharir, Nikhil Karamchandani, and Veeraruna Kavitha,
+* [Partial Service Caching at the Edge](http://rsriprakash.github.io/files/Wiopt_2020)<br>
+		with Sharayu Moharir, Nikhil Karamchandani, and Veeraruna Kavitha,<br>
     in CCDWN workshop WiOpt 2020.
 
-*  [Caching Static and Transient Data](http://rsriprakash.github.io/files/Mobi_com_2018.pdf)
-       with Sharayu Moharir,
+*  [Caching Static and Transient Data](http://rsriprakash.github.io/files/Mobi_com_2018.pdf)<br>
+       with Sharayu Moharir,<br>
        poster paper in ACM Mobicom 2018.
