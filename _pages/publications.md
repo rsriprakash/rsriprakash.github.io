@@ -21,3 +21,7 @@ redirect_from:
 *  [Caching Static and Transient Data](http://rsriprakash.github.io/files/Mobi_com_2018.pdf)<br>
        with Sharayu Moharir,<br>
        poster paper in ACM Mobicom 2018.
+
+* [Caching Policies for Transient Data](http://rsriprakash.github.io/files/NCC_2018)<br>
+   		with Santosh Fatale and Sharayu Moharir,<br>
+      in NCC 2018. [Extended version](http://rsriprakash.github.io/files/Tcom_2020)
