@@ -24,4 +24,4 @@ redirect_from:
 
 * [Caching Policies for Transient Data](http://rsriprakash.github.io/files/NCC_2018)<br>
    		&nbsp;&nbsp;&nbsp;&nbsp; with Santosh Fatale and Sharayu Moharir,<br>
-      &nbsp;&nbsp;&nbsp;&nbsp; in NCC 2018. [Extended version](http://rsriprakash.github.io/files/Tcom_2020)
+      &nbsp;&nbsp;&nbsp;&nbsp; in NCC 2018. [[Extended version](http://rsriprakash.github.io/files/Tcom_2020)]
