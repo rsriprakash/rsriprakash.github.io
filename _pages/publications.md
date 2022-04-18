@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /publications
 ---
-* [On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/sig_2022.pdf)
-		with Nikhil Karamchandani and Sharayu Moharir,
+* [On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/sig_2022.pdf)<br>
+		with Nikhil Karamchandani and Sharayu Moharir,<br>
     poster paper in ACM Sigmetrics 2022.
 
 * [Caching Policies for Transient Data](http://rsriprakash.github.io/files/Tcom_2020)
