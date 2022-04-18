@@ -7,12 +7,12 @@ redirect_from:
   - /publications
 ---
 ## [Caching Static and Transient Data](http://rsriprakash.github.io/files/Mobi_com_2018.pdf)
-#####   with Sharayu Moharir
-#####  poster paper in ACM Mobicom 2018.
+:  with Sharayu Moharir
+:  poster paper in ACM Mobicom 2018.
 
 ## [On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/sig_2022.pdf)
-#####			with Nikhil Karamchandani and Sharayu Moharir,
-#####            poster paper in ACM Sigmetrics 2022. </li></br>
+####			with Nikhil Karamchandani and Sharayu Moharir,
+####            poster paper in ACM Sigmetrics 2022. </li></br>
 
 ## [Caching Policies for Transient Data](http://rsriprakash.github.io/files/Tcom_2020)
 ###		with Santosh Fatale and Sharayu Moharir,
