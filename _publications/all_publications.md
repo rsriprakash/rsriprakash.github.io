@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-type: "Publicatons"
 permalink: /publications/all_publications
 ---
 
