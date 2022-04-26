@@ -10,11 +10,11 @@ redirect_from:
 		&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; poster paper in ACM Sigmetrics 2022.
 
-* [Caching Policies for Transient Data](http://rsriprakash.github.io/files/Tcom_2020)<br>
+* [Caching Policies for Transient Data](http://rsriprakash.github.io/files/Tcom_2020.pdf)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Santosh Fatale and Sharayu Moharir,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; in IEEE Transactions on Communications 2020.
 
-* [Partial Service Caching at the Edge](http://rsriprakash.github.io/files/Wiopt_2020)<br>
+* [Partial Service Caching at the Edge](http://rsriprakash.github.io/files/Wiopt_2020.pdf)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Sharayu Moharir, Nikhil Karamchandani, and Veeraruna Kavitha,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; in CCDWN workshop WiOpt 2020.
 
@@ -22,6 +22,6 @@ redirect_from:
        &nbsp;&nbsp;&nbsp;&nbsp; with Sharayu Moharir,<br>
        &nbsp;&nbsp;&nbsp;&nbsp; poster paper in ACM Mobicom 2018.
 
-* [Caching Policies for Transient Data](http://rsriprakash.github.io/files/NCC_2018)<br>
+* [Caching Policies for Transient Data](http://rsriprakash.github.io/files/NCC_2018.pdf)<br>
    		&nbsp;&nbsp;&nbsp;&nbsp; with Santosh Fatale and Sharayu Moharir,<br>
-      &nbsp;&nbsp;&nbsp;&nbsp; in NCC 2018. [[Extended version](http://rsriprakash.github.io/files/Tcom_2020)]
+      &nbsp;&nbsp;&nbsp;&nbsp; in NCC 2018. [[Extended version](http://rsriprakash.github.io/files/Tcom_2020.pdf)]
