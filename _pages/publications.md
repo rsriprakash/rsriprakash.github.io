@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /publications
 ---
+* [Best Arm Identification in Sample-path Correlated Bandits](http://rsriprakash.github.io/files/NCC_2022.pdf)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp; in NCC 2022.
+
 * [On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/sig_2022.pdf)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; poster paper in ACM Sigmetrics 2022.
