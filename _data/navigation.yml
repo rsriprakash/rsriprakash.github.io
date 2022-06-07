@@ -6,7 +6,7 @@ main:
   #- title: "Talks"
    # url: /talks/
    
-  - titile: "Awards"
+  - title: "Awards"
     url: /awards/
 
   - title: "TA courses"
