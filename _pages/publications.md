@@ -6,6 +6,11 @@ author_profile: true
 redirect_from:
   - /publications
 ---
+[On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/WiOpt_2022.pdf)<br>
+		&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp; in CCDWN workshop WiOpt 2022,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp; preliminary version appeared as a poster paper in ACM SIGMETRICS 2022.
+
 * [Best Arm Identification in Sample-path Correlated Bandits](http://rsriprakash.github.io/files/NCC_2022.pdf)<br>
     &nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; in NCC 2022 **(recipient of the best paper award)**.
