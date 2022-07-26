@@ -1,15 +1,17 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 redirect_from:
   - /publications
 ---
 ## Preprints
+* [Online Partial Service Hosting at the Edge](https://arxiv.org/abs/2103.00555)<br>
+with V S Ch Lakshmi Narayana, Mohit Agarwala, Sharayu Moharir, and Nikhil Karamchandani.
 
 ## Publications
-## * [On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/WiOpt_2022.pdf)<br>
+* [On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/WiOpt_2022.pdf)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; in CCDWN workshop WiOpt 2022,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; preliminary version appeared as a poster paper in ACM SIGMETRICS 2022.
