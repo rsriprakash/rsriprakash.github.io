@@ -10,6 +10,9 @@ redirect_from:
 * [Online Partial Service Hosting at the Edge](https://arxiv.org/abs/2103.00555)<br>
   	&nbsp;&nbsp;&nbsp;&nbsp; with V S Ch Lakshmi Narayana, Mohit Agarwala, Sharayu Moharir, and Nikhil Karamchandani.
 
+* [On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/perf_evol_2022.pdf)<br>
+		&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir.<br>
+
 ## Publications
 * [On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/WiOpt_2022.pdf)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
@@ -22,7 +25,7 @@ redirect_from:
 
 * [On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/sig_2022.pdf)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
-    &nbsp;&nbsp;&nbsp;&nbsp; poster paper in ACM Sigmetrics 2022.
+    &nbsp;&nbsp;&nbsp;&nbsp; poster paper in ACM Sigmetrics 2022. [[Extended version](http://rsriprakash.github.io/files/perf_evol_2022.pdf)]
 
 * [Caching Policies for Transient Data](http://rsriprakash.github.io/files/Tcom_2020.pdf)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Santosh Fatale and Sharayu Moharir,<br>
