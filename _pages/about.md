@@ -12,4 +12,4 @@ I am currently pursuing M.Tech + Ph.D in Communications and Signal Processing (C
 
 My research interests are Multi Arm Bandits (MAB), online learning, stochastic system modelling, resource allocation in distributed networks, wireless communication, signal Processing.
 
-[Curriculum Vitae](http://rsriprakash.github.io/files/RSPrakash_CV.pdf)
+[[Curriculum Vitae](http://rsriprakash.github.io/files/RSPrakash_CV.pdf)]
