@@ -7,13 +7,14 @@ redirect_from:
   - /publications
 ---
 ## Preprints
-* [Online Partial Service Hosting at the Edge](https://arxiv.org/abs/2103.00555)<br>
-  	&nbsp;&nbsp;&nbsp;&nbsp; with V S Ch Lakshmi Narayana, Mohit Agarwala, Sharayu Moharir, and Nikhil Karamchandani.
-
 * [On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/perf_evol_2022.pdf)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir.<br>
 
 ## Publications
+* [Online Partial Service Hosting at the Edge](https://arxiv.org/abs/2103.00555)<br>
+  	&nbsp;&nbsp;&nbsp;&nbsp; with V S Ch Lakshmi Narayana, Mohit Agarwala, Sharayu Moharir, and Nikhil Karamchandani,
+  &nbsp;&nbsp;&nbsp;&nbsp; in ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS) 2023.
+  
 * [On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/WiOpt_2022.pdf)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; in CCDWN workshop WiOpt 2022 <span style="color:blue">  **(invited paper)** </span>,<br>
