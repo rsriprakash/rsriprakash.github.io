@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 ## Preprints
-* [On the Regret of Online Edge Service Hosting](http://rsriprakash.github.io/files/perf_evol_2022.pdf)<br>
+* [On the Regret of Online Edge Service Hosting](https://arxiv.org/abs/2303.06851)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir.<br>
 
 ## Publications
