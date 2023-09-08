@@ -6,11 +6,11 @@ author_profile: true
 redirect_from:
   - /publications
 ---
-## Preprints
+## Publications
 * [On the Regret of Online Edge Service Hosting](https://arxiv.org/abs/2303.06851)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; in Performance Evaluation 2023.
 
-## Publications
 * [Online Partial Service Hosting at the Edge](https://arxiv.org/abs/2103.00555)<br>
   	&nbsp;&nbsp;&nbsp;&nbsp; with V S Ch Lakshmi Narayana, Mohit Agarwala, Sharayu Moharir, and Nikhil Karamchandani,<br>
   &nbsp;&nbsp;&nbsp;&nbsp; in ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS) 2023.
