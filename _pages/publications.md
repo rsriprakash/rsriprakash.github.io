@@ -20,6 +20,7 @@ redirect_from:
     &nbsp;&nbsp;&nbsp;&nbsp; in CCDWN workshop WiOpt 2022 <span style="color:blue">  **(invited paper)** </span>,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; preliminary version appeared as a poster paper in ACM SIGMETRICS 2022.
 
+## Conferences
 * [Best Arm Identification in Sample-path Correlated Bandits](http://rsriprakash.github.io/files/NCC_2022.pdf)<br>
     &nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; in NCC 2022<span style="color:red"> **(recipient of the best paper award)**</span>.
