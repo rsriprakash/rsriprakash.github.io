@@ -15,7 +15,7 @@ redirect_from:
   	&nbsp;&nbsp;&nbsp;&nbsp; with V S Ch Lakshmi Narayana, Mohit Agarwala, Sharayu Moharir, and Nikhil Karamchandani,<br>
   &nbsp;&nbsp;&nbsp;&nbsp; in ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS) 2023.
   
-  * [Caching Policies for Transient Data](http://rsriprakash.github.io/files/Tcom_2020.pdf)<br>
+* [Caching Policies for Transient Data](http://rsriprakash.github.io/files/Tcom_2020.pdf)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Santosh Fatale and Sharayu Moharir,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; in IEEE Transactions on Communications 2020.
 
