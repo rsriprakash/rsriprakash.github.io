@@ -12,4 +12,4 @@ I obtained my M.Tech + Ph.D (Dual Degree) in Communications and Signal Processin
 
 My research interests are Multi Arm Bandits (MAB), online learning, stochastic system modelling, resource allocation in distributed networks, wireless communication, signal Processing.
 
-[[Curriculum Vitae](http://rsriprakash.github.io/files/RSPrakash_CV.pdf)]
+[[Curriculum Vitae](http://rsriprakash.github.io/files/R_Sri_Prakash_CV.pdf)]
