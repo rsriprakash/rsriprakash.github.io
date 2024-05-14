@@ -12,7 +12,7 @@ Cheat Sheets
 =============
 [Signal Processing](http://rsriprakash.github.io/files/Signals_systems.pdf)
 
-[Communications](http://rsriprakash.github.io/files/Communications_2.pdf)
+[Wireless Communication](http://rsriprakash.github.io/files/Communications.pdf)
 
 [Devices](http://rsriprakash.github.io/files/devices.pdf)
 
