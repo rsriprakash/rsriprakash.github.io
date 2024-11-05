@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Stochastic Systems Lab,\
-Department of Electrical Engineering,\
-Indian Institute of Technology Bombay,\
-Mumbai, Maharashtra, India-400076
+Faculty Cabin: 310F,\
+Department of Electronics and Communication Engineering,\
+Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram,\
+Chennai, Tamil Nadu, India-600127.
 
 Email
 ======
-* prakash.14191[at]gmail.com
-* sriprakash[at]ee.iitb.ac.in
+* rsp.sriprakash[at]gmail.com
+* sriprakash[at]iiitdm.ac.in
