@@ -21,8 +21,8 @@ This material is presented to ensure timely dissemination of scholarly and techn
     &nbsp;&nbsp;&nbsp;&nbsp; in IEEE Transactions on Communications 2020.
 
 ## Conferences
-*[Regret-Optimal Policies for Rental Caches](http://rsriprakash.github.io/files/COMSNETS_2025.pdf)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
+* [Regret-Optimal Policies for Rental Caches](http://rsriprakash.github.io/files/COMSNETS_2025.pdf)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; in COMSNETS 2025<span style="color:red">.
     
 * [Best Arm Identification in Sample-path Correlated Bandits](http://rsriprakash.github.io/files/NCC_2022.pdf)<br>
