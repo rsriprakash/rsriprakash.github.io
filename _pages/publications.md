@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /publications
 ---
+This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 ## Journals
 * [On the Regret of Online Edge Service Hosting](https://arxiv.org/abs/2303.06851)<br>
 		&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir.<br>
@@ -20,6 +21,10 @@ redirect_from:
     &nbsp;&nbsp;&nbsp;&nbsp; in IEEE Transactions on Communications 2020.
 
 ## Conferences
+*[Regret-Optimal Policies for Rental Caches](http://rsriprakash.github.io/files/COMSNETS_2025.pdf)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp; in COMSNETS 2025<span style="color:red">.
+    
 * [Best Arm Identification in Sample-path Correlated Bandits](http://rsriprakash.github.io/files/NCC_2022.pdf)<br>
     &nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; in NCC 2022<span style="color:red"> **(recipient of the best paper award)**</span>.
