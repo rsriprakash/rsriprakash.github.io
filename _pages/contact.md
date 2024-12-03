@@ -16,5 +16,4 @@ Chennai, Tamil Nadu, India-600127.
 
 Email
 ======
-* rsp.sriprakash[at]gmail.com
 * sriprakash[at]iiitdm.ac.in
