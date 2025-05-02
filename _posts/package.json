@@ -1,0 +1,23 @@
+{
+    "name": "grading-assistant",
+    "version": "0.0.1",
+    "description": "IITB Grading Assistant",
+    "main": "index.html",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+	"type": "git",
+	"url": "git+ssh://git@gitlab.com/kumanna/elm-grading-assistant.git"
+    },
+    "author": "Kumar Appaiah",
+    "license": "LICENSE",
+    "bugs": {
+	"url": "https://gitlab.com/kumanna/elm-grading-assistant/issues"
+    },
+    "homepage": "https://gitlab.com/kumanna/elm-grading-assistant#readme",
+    "dependencies": {
+	"elm": "^0.19.0",
+	"uglify-js" : "^3.4.9"
+    }
+}
