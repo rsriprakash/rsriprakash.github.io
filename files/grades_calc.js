@@ -5391,15 +5391,13 @@ var $author$project$Main$init = function (_v0) {
 			content: '',
 			grades: _List_fromArray(
 				[
-					A2($author$project$Student$PassGrade, 'AP', 100.0),
-					A2($author$project$Student$PassGrade, 'AA', 90.0),
-					A2($author$project$Student$PassGrade, 'AB', 80.0),
-					A2($author$project$Student$PassGrade, 'BB', 70.0),
-					A2($author$project$Student$PassGrade, 'BC', 60.0),
-					A2($author$project$Student$PassGrade, 'CC', 50.0),
-					A2($author$project$Student$PassGrade, 'CD', 40.0),
-					A2($author$project$Student$PassGrade, 'DD', 30.0),
-					$author$project$Student$FailGrade('FR')
+					A2($author$project$Student$PassGrade, 'S', 90.0),
+					A2($author$project$Student$PassGrade, 'A', 80.0),
+					A2($author$project$Student$PassGrade, 'B', 70.0),
+					A2($author$project$Student$PassGrade, 'C', 60.0),
+					A2($author$project$Student$PassGrade, 'D', 50.0),
+					A2($author$project$Student$PassGrade, 'E', 30.0),
+					$author$project$Student$FailGrade('U')
 				]),
 			histogramBins: 100,
 			separator: $author$project$Main$AutoDetect,
