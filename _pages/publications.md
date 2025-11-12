@@ -21,6 +21,10 @@ This material is presented to ensure timely dissemination of scholarly and techn
     &nbsp;&nbsp;&nbsp;&nbsp; in IEEE Transactions on Communications 2020.
 
 ## Conferences
+* [Cascading Bandits With Feedback](http://rsriprakash.github.io/files/Cascading Bandits With Feedback.pdf)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp; in ICEdge 2025<span style="color:red">.
+  
 * [Regret-Optimal Policies for Rental Caches](http://rsriprakash.github.io/files/COMSNETS_2025.pdf)<br>
     &nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; in COMSNETS 2025<span style="color:red">.
