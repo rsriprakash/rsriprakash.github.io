@@ -21,7 +21,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
     &nbsp;&nbsp;&nbsp;&nbsp; in IEEE Transactions on Communications 2020.
 
 ## Conferences
-* [Cascading Bandits With Feedback](http://rsriprakash.github.io/files/ICEdge_2025.pdf)<br>
+* [Cascading Bandits With Feedback](https://arxiv.org/abs/2511.10938)<br>
     &nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
     &nbsp;&nbsp;&nbsp;&nbsp; in ICEdge 2025<span style="color:red">.
   
