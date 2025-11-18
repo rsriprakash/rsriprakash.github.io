@@ -23,7 +23,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 ## Conferences
 * [Cascading Bandits With Feedback](https://arxiv.org/abs/2511.10938)<br>
     &nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
-    &nbsp;&nbsp;&nbsp;&nbsp; in ICEdge 2025<span style="color:red">.
+    &nbsp;&nbsp;&nbsp;&nbsp; in ICEdge 2025 <span style="color:blue">  **(invited paper)** </span>.<br>
   
 * [Regret-Optimal Policies for Rental Caches](http://rsriprakash.github.io/files/COMSNETS_2025.pdf)<br>
     &nbsp;&nbsp;&nbsp;&nbsp; with Nikhil Karamchandani and Sharayu Moharir,<br>
